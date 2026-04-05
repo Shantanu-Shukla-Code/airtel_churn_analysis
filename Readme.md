@@ -53,7 +53,7 @@ This structure improves **performance, scalability, and clarity** in Power BI.
 
 ## 📊 Dashboard Features
 
-### 🔹 Page 1: Churn Overview
+**Churn Overview**
 
 Provides a high-level summary of churn behavior.
 
@@ -79,10 +79,10 @@ Provides a high-level summary of churn behavior.
 ## 📈 Key Insights
 
 * 📉 **Month-to-month contracts** show the highest churn rates
-* 💸 Customers with **higher monthly charges** tend to churn more
+* 💸 Customers with **smaller tenure periods** tend to churn more
 * 🛠️ Lack of **value-added services** (e.g., Tech Support, Online Security) is linked to higher churn
 * 👴 **Senior citizens** have significantly higher churn rates
-* 💳 Certain **payment methods** are associated with increased churn
+* 💳 **Electronic payment methods** are associated with increased churn
 
 ---
 
